@@ -1,0 +1,35 @@
+body {
+    width: 850px;
+    margin: 0 auto;
+    
+}
+
+main {
+    background-image: url(/images/galaxy.avif);
+    background-size: cover;
+    height: 450px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    color: white;
+    font-family: acme;
+    
+
+}
+
+section {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #ece8e8;
+    border: 2px;
+    
+}
+
+p{
+    border: 2px;
+    margin: 1%;
+    color: #8b8787;
+}
