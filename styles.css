@@ -1,7 +1,6 @@
 body {
     width: 850px;
     margin: 0 auto;
-    
 }
 
 main {
@@ -16,22 +15,23 @@ main {
 h1 {
     color: white;
     font-family: acme;
-
 }
 
 section {
     display: flex;
     justify-content: space-evenly;
     background-color: #ece8e8;
-    
-    
 }
 
 form{
-    margin-top: 18px;
+    margin-top: 10%;
 }
 
 p{
     margin: 1%;
     color: #8b8787;
+}
+
+h2{
+    margin-bottom: 5%;
 }
