@@ -16,7 +16,6 @@ main {
 h1 {
     color: white;
     font-family: acme;
-    
 
 }
 
@@ -24,12 +23,15 @@ section {
     display: flex;
     justify-content: space-evenly;
     background-color: #ece8e8;
-    border: 2px;
+    
     
 }
 
+form{
+    margin-top: 18px;
+}
+
 p{
-    border: 2px;
     margin: 1%;
     color: #8b8787;
 }
