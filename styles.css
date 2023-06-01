@@ -4,7 +4,7 @@ body {
 }
 
 main {
-    background-image: url(/images/galaxy.avif);
+    background-image: url(./images/galaxy.avif);
     background-size: cover;
     height: 450px;
     display: flex;
